@@ -1,4 +1,4 @@
-# 🚀 Привет, я Viktor Gogolev – Junior DevOps Engineer
+# 🚀 Привет, я Viktor Gogolev – Beginer DevOps Engineer
 
 ## 🔧 Мой стек технологий
 
