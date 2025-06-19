@@ -20,3 +20,11 @@
 
 📝 **Блог / Соцсети:**  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ваш-twitter)  
+
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
