@@ -12,7 +12,7 @@
 ![Consul](https://img.shields.io/badge/-Consul-F24C53?logo=consul&logoColor=white)
 ![Nexus](https://img.shields.io/badge/-Nexus-000000?logo=nexus&logoColor=white)
 ![Vault](https://img.shields.io/badge/-Vault-000000?logo=vault&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?logo=Git&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?logo=Git&logoColor=black)
 
 ### 🗃️ Базы данных
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
