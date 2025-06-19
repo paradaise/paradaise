@@ -8,10 +8,10 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 ![Vault](https://img.shields.io/badge/-Vault-000000?logo=vault&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Consul](https://img.shields.io/badge/-Consul-F24C53?logo=consul&logoColor=white)
 ![Nexus](https://img.shields.io/badge/-Nexus-000000?logo=nexus&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 
@@ -58,7 +58,7 @@
 ## 🎯 Текущие цели
 - [ ] Вести свою базу знаний в Obsidian
 - [ ] Освоить k3s/miniCube на базовом уровне
-- [ ] Практиковать написание Ansible-модулей/Terraform-плагинов
-- [ ] Расширить пониманеи принципов работы GNU/Linux на уровне модулей ядра
+- [ ] Практиковать написание комплексных Ansible-модулей/Terraform-плагинов
+- [ ] Расширить понимание принципов работы ОС семейства GNU/Linux на уровне модулей ядра
 - [ ] На продвинутом уровне освоить принципы IaC и жизненного цикла высоконагруженных распределенных систем
 
