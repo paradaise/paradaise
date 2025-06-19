@@ -12,8 +12,7 @@
 ![Consul](https://img.shields.io/badge/-Consul-F24C53?logo=consul&logoColor=white)
 ![Nexus](https://img.shields.io/badge/-Nexus-000000?logo=nexus&logoColor=white)
 ![Vault](https://img.shields.io/badge/-Vault-000000?logo=vault&logoColor=white)
-![S3](https://img.shields.io/badge/-S3-569A31?logo=amazons3&logoColor=white)
-
+![Git](https://img.shields.io/badge/-Git-000000?logo=Git&logoColor=white)
 
 ### 🗃️ Базы данных
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -59,6 +58,6 @@
 - [ ] Вести свою базу знаний в Obsidian
 - [ ] Освоить k3s/miniCube на базовом уровне
 - [ ] Практиковать написание Ansible-модулей/Terraform-плагинов
-- [ ] Расширить пониманеи принципов работы GNU/Linux
+- [ ] Расширить пониманеи принципов работы GNU/Linux на уровне модулей ядра
 - [ ] На продвинутом уровне освоить принципы IaC и жизненного цикла высоконагруженных распределенных систем
 
