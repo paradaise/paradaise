@@ -1,4 +1,4 @@
-# 🚀 Привет, я Viсtor Gogolev – Beginer DevOps Engineer
+# 🚀 Привет, я Viсtor Gogolev 
 
 ## 🔧 Мой стек технологий
 
