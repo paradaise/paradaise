@@ -37,9 +37,9 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![YAML](https://img.shields.io/badge/-YAML-CB171E?logo=yaml&logoColor=white)
-![TOML](https://img.shields.io/badge/-TOML-5656230?logo=toml&logoColor=white)
+![TOML](https://img.shields.io/badge/-TOML-#FCCA03?logo=toml&logoColor=white)
 ![INI](https://img.shields.io/badge/-INI-000000?logo=ini&logoColor=white)
-
+![JSON](https://img.shields.io/badge/-JSON-#03d7fc?logo=json&logoColor=white)
 ## 📊 GitHub Статистика
 
 <div align="center">
